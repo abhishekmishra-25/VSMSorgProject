@@ -1,0 +1,7 @@
+{
+    "name": "vsmsorg/website",
+    "description": "Vehicle Service Management System",
+    "require": {
+        "php": ""
+    }
+}
