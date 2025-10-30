@@ -1,8 +1,4 @@
-Here’s a complete and professional **README.md** file content for your **Vehicle Service Management System (VSMS)** project 👇
 
----
-
-# 🚗 Vehicle Service Management System (VSMS)
 
 ## 🧾 **Project Title:**
 
@@ -148,6 +144,4 @@ The Vehicle Service Management System successfully automates the workflow of veh
 **LinkedIn:** [linkedin.com/in/yourprofile](#)
 **GitHub:** [github.com/yourusername](#)
 
----
 
-Would you like me to format this as a **downloadable README.md file** (for GitHub) or a **PDF version** (for report submission)?
