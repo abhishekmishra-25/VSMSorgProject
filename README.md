@@ -1,7 +1,3 @@
-
-
-## 🧾 **Project Title:**
-
 **Vehicle Service Management System (VSMS)**
 
 ---
