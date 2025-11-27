@@ -136,5 +136,3 @@ Admins can monitor all activities in real time and make data-backed decisions to
 
 **GitHub:** [github.com/abhishekmishra-25](#)
 
-<img width="1920" height="1080" alt="2025-11-27" src="https://github.com/user-attachments/assets/b5d39974-3f03-4a44-b3b3-362483c59a4c" />
-
