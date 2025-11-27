@@ -27,13 +27,13 @@ Traditional vehicle service centers rely heavily on manual systems, leading to i
 * **Database Name:** `vsms_db`
 * **Tables Included:**
 
-  * `users` — Stores customer and admin information
-  * `vehicles` — Contains vehicle details linked to users
-  * `services` — List of available service types and pricing
-  * `bookings` — Stores user service bookings and status
-  * `payments` — Tracks online payments and transactions
-  * `feedback` — Manages ratings and reviews
-  * `notifications` — Stores user alerts and messages
+  * `adminlogin_tb` — Stores admin login information
+  * `assets_tb` — Contains vehicle details linked to users
+  * `assignwork_tb` — List of available service types and pricing
+  * `customer_tb` — Stores user service bookings and status
+  * `requesterlogin_tb` — Tracks online payments and transactions
+  * `submitrequest_tb` — Manages ratings and reviews
+  * `mechanics_tb` — Stores mechanics 
 
 ---
 
@@ -47,9 +47,6 @@ Traditional vehicle service centers rely heavily on manual systems, leading to i
 
   * PHPMailer (for email notifications)
   * Razorpay / PayPal (for payment gateway integration)
-  * Chart.js (for analytics and reporting)
-  * AJAX (for asynchronous operations)
-
 ---
 
 ## ⚙️ **Methods / Modules:**
@@ -71,29 +68,25 @@ Traditional vehicle service centers rely heavily on manual systems, leading to i
 * Eliminates manual record-keeping errors.
 * Improves service efficiency and transparency.
 * Tracks vehicle service history and payment records.
-* Provides admin analytics for data-driven decisions.
-
 ---
 
 ## 🖥️ **Dashboard / Model / Output:**
 
 * **Customer Dashboard:**
-
   * Book services, view status, and download invoices.
+    
 * **Admin Dashboard:**
-
   * Manage users, view total revenue, service reports, and feedback.
+    
 * **Reports:**
-
   * Graphs showing service trends, total income, and customer ratings.
 
 ---
 
-## ▶️ **How to Run This Project:**
+## **How to Run This Project:**
 
 1. **Install XAMPP** (or any local PHP server).
 2. **Copy the project folder** to the `htdocs` directory.
-
    ```
    C:\xampp\htdocs\vsms
    ```
@@ -119,7 +112,9 @@ Traditional vehicle service centers rely heavily on manual systems, leading to i
 
 ## 🧩 **Results and Conclusion:**
 
-The Vehicle Service Management System successfully automates the workflow of vehicle service centers. It improves operational efficiency, ensures transparent communication, and provides a seamless experience for customers. Admins can monitor all activities in real time and make data-backed decisions to enhance service quality.
+The Vehicle Service Management System successfully automates the workflow of vehicle service centers. 
+It improves operational efficiency, ensures transparent communication, and provides a seamless experience for customers. 
+Admins can monitor all activities in real time and make data-backed decisions to enhance service quality.
 
 ---
 
@@ -129,15 +124,13 @@ The Vehicle Service Management System successfully automates the workflow of veh
 * Adding **AI Chatbot** for automated customer support.
 * Implementing **Mobile App (Flutter / React Native)** for better accessibility.
 * Integration of **Real-time Notifications (WebSockets/Firebase)**.
-* Advanced analytics using **Machine Learning** for predictive maintenance.
-
 ---
 
 ## 👨‍💻 **Author and Contact:**
 
 **Author:** Abhishek Mishra
-**Email:** [[your-email@example.com](mailto:your-email@example.com)]
-**LinkedIn:** [linkedin.com/in/yourprofile](#)
-**GitHub:** [github.com/yourusername](#)
+**Email:** [[abhishekk.dev25@gmail.com](mailto:abhishekk.dev25@gmail.com)]
+**LinkedIn:** [linkedin.com/in/abhishek-mishra-717948305](#)
+**GitHub:** [github.com/abhishekmishra-25](#)
 
 
