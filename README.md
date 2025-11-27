@@ -129,8 +129,11 @@ Admins can monitor all activities in real time and make data-backed decisions to
 ## 👨‍💻 **Author and Contact:**
 
 **Author:** Abhishek Mishra
+
 **Email:** [[abhishekk.dev25@gmail.com](mailto:abhishekk.dev25@gmail.com)]
+
 **LinkedIn:** [linkedin.com/in/abhishek-mishra-717948305](#)
+
 **GitHub:** [github.com/abhishekmishra-25](#)
 
 
